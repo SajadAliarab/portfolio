@@ -13,6 +13,7 @@ export const skillsData = [
   'MySQL',
   'Git',
   'AWS',
+  'Jira'
 ]
 
 

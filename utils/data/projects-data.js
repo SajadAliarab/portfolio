@@ -12,7 +12,8 @@ export const projectsData = [
         role: 'Personal Project',
         code: '',
         demo: '',
-        image: crefin,
+        image: '',
+        slug : 'https://community.sajad.uk/'
     },
     {
         id: 2,
@@ -22,7 +23,8 @@ export const projectsData = [
         role: 'Personal Project',
         code: '',
         demo: '',
-        image: travel,
+        image: '',
+        slug : 'https://piano.sajad.uk/'
     },
     {
         id: 3,
@@ -32,7 +34,8 @@ export const projectsData = [
         code: '',
         role: 'Full Stack Developer',
         demo: '',
-        image: realEstate,
+        image: '',
+        slug : 'https://restaurantvosje.nl/'
     },
 
 ];

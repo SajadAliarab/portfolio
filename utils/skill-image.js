@@ -72,6 +72,7 @@ import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
 import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
+import jira from '/public/svg/skills/jira.svg';
 
 
 export const skillsImage = (skill) => {
@@ -79,6 +80,8 @@ export const skillsImage = (skill) => {
   switch (skillID) {
     case 'gcp':
       return gcp;
+    case 'jira':
+      return jira;
     case 'html':
       return html;
     case 'photoshop':

@@ -1,5 +1,6 @@
 // @flow strict
 
+import Link from 'next/link';
 import * as React from 'react';
 
 function ProjectCard({ project }) {
@@ -17,8 +18,18 @@ function ProjectCard({ project }) {
           <div className="h-2 w-2 lg:h-3 lg:w-3 rounded-full bg-green-200"></div>
         </div>
         <p className="text-center ml-3 text-[#16f2b3] text-base lg:text-xl">
+        <Link href={project.slug} target='_blank'>
           {project.name}
+        </Link>
         </p>
+
+      </div>
+      <div className="flex flex-row space-x-1 lg:space-x-2 absolute bottom-1 right-1">
+      <button className=" text-[#16f2b3] text-lg lg:text-xl">
+        <Link href={project.slug} target='_blank'>
+        View Project 
+        </Link>
+        </button>
       </div>
       <div className="overflow-hidden border-t-[2px] border-indigo-900 px-4 lg:px-8 py-4 lg:py-8">
         <code className="font-mono text-xs md:text-sm lg:text-base">
