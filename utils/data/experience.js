@@ -1,20 +1,32 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'Senior Sales Assistance',
+    company: "Toolstation, UK",
+    duration: "(May 2023 - Present)"
   },
   {
     id: 2,
     title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    company: "Butane Industrial Group, Iran",
+    duration: "(Apr 2019 - Jan 2023)"
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    title: "Web Developer",
+    company: "DamaNama, Iran",
+    duration: "(Apr 2017 - Apr 2019)"
+  },
+  {
+    id:4,
+    title: "Sales Representative",
+    company: "Butane Industrial Group, Iran",
+    duration: "(Aug 2011 - Apr 2017)"
+  },
+  {
+    id:5,
+    title: "Web Application Developer",
+    company: "Javaneh Software, Iran",
+    duration: "(Sep 2009 - May 2011)"
   }
 ]
