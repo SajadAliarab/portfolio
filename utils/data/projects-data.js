@@ -6,7 +6,7 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
     {
         id: 1,
-        name: 'Community Platform(under construction)',
+        name: 'Community Platform (under construction)',
         description: "I am working on a community platform for my portfolio. I have designed and developed the platform using NextJS, TailwindCSS, and MongoDB. This Platform communicates with the backend API using RESTFul API. I have implemented user authentication, role-based access control, and user profile management. ",
         tools: ['Next.JS', 'React', 'Mongo Db', 'Node.JS', 'TailwindCSS'],
         role: 'Personal Project',
