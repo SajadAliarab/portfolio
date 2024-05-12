@@ -25,11 +25,11 @@ function ProjectCard({ project }) {
 
       </div>
       <div className="flex flex-row space-x-1 lg:space-x-2 absolute bottom-1 right-1">
-      <button className=" text-[#16f2b3] text-lg lg:text-xl">
-        <Link href={project.slug} target='_blank'>
-        View Project 
-        </Link>
-        </button>
+
+      <Link className="flex items-center gap-1 hover:gap-3 rounded-full bg-gradient-to-r from-pink-500 to-violet-600 px-3 md:px-8 py-3 md:py-4 text-center text-xs md:text-sm font-medium uppercase tracking-wider text-white no-underline transition-all duration-200 ease-out hover:text-white hover:no-underline md:font-semibold" role="button" target="_blank" href={project.slug}
+            >
+              <span>View Project</span>
+            </Link>
       </div>
       <div className="overflow-hidden border-t-[2px] border-indigo-900 px-4 lg:px-8 py-4 lg:py-8">
         <code className="font-mono text-xs md:text-sm lg:text-base">
