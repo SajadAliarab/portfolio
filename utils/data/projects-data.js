@@ -13,7 +13,7 @@ export const projectsData = [
         code: '',
         demo: '',
         image: '',
-        slug : 'https://community.sajad.uk/'
+        slug : 'http://construction-community.s3-website.eu-west-2.amazonaws.com/'
     },
     {
         id: 2,
