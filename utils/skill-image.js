@@ -73,6 +73,7 @@ import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
 import jira from '/public/svg/skills/jira.svg';
+import laravel from '/public/svg/skills/laravel.svg';
 
 
 export const skillsImage = (skill) => {
@@ -228,6 +229,8 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case 'canva':
       return canva;
+    case 'laravel':
+      return laravel;  
     default:
       break;
   }

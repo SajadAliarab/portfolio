@@ -37,6 +37,39 @@ export const projectsData = [
         image: '',
         slug : 'https://restaurantvosje.nl/'
     },
+{
+    id:4,
+    name: 'Butane-Shop',
+    description: 'A PrestaShop E-commerce, where innovation meets convenience in online shopping. this platform, meticulously crafted from scratch using PHP ,JavaScript, HTML, and CSS, offers a seamless browsing experience coupled with top-notch SEO optimization. Through our strategic SEO campaign, we have achieved outstanding results, attracting 35,000 visits and 500,000 impressions in just one month, with over 100 queries ranking within the top three impressions on Google.',
+    tools: ['PrestaShop', 'PHP', 'JavaScript', 'HTML', 'CSS'],
+    role: 'Full Stack Developer',
+    code: '',
+    demo: '',
+    image: '',
+    slug : 'https://butane-shop.com/'
+},
+{
+    id:5,
+    name: 'Dolichi',
+    description: ' A comprehensive SEO campaign that has significantly improved the online visibility of Dolichi, a leading cloth online shop. By implementing a robust SEO strategy, we have successfully optimized the website for search engines, resulting in a 30% increase in organic traffic and a 20% increase in conversion rates. Our SEO efforts have also led to a 50% increase in keyword rankings, with over 200 keywords now ranking on the first page of Google.',
+    tools: ['SEO-onPage','SEO-offPage', 'Google Analytics', 'Google Search Console'],
+    role: 'SEO Specialist',
+    code: '',
+    demo: '',
+    image: '',
+    slug : 'https://dolichi.com/'
+},
+{
+    id:6,
+    name: 'DamaNama',
+    description: 'An E-commerce website that offers a wide range of products, from clothing to electronics. I have designed and developed the website using Prestashop. I have also implemented a payment gateway. The website is fully responsive and optimized for SEO.',
+    tools: ['PrestaShop', 'PHP', 'JavaScript', 'HTML', 'CSS'],
+    role: 'Full Stack Developer',
+    code: '',
+    demo: '',
+    image: '',
+    slug : 'https://damanama.com/'
+}
 
 ];
 

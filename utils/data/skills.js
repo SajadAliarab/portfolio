@@ -4,6 +4,7 @@ export const skillsData = [
   'Javascript',
   'Typescript',
   'PHP',
+  'Laravel',
   'Vue',
   'Nuxt JS',
   'React',
