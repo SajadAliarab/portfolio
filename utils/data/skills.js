@@ -5,16 +5,16 @@ export const skillsData = [
   'Typescript',
   'PHP',
   'Laravel',
+  'Docker',
   'Vue',
   'Nuxt JS',
-  'React',
-  'Next JS',
   'Wordpress',
   'Tailwind',
   'MySQL',
   'Git',
   'AWS',
-  'Jira'
+  'Jira',
+  
 ]
 
 

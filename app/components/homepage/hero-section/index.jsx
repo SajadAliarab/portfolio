@@ -55,7 +55,7 @@ function HeroSection() {
               </button>
             </Link>
 
-            <Link className="flex items-center gap-1 hover:gap-3 rounded-full bg-gradient-to-r from-pink-500 to-violet-600 px-3 md:px-8 py-3 md:py-4 text-center text-xs md:text-sm font-medium uppercase tracking-wider text-white no-underline transition-all duration-200 ease-out hover:text-white hover:no-underline md:font-semibold" role="button" target="_blank" href="https://drive.google.com/file/d/1TBvrICLlHkS-cYIVctl9pOxNKEA_JLDB/view?usp=drive_link"
+            <Link className="flex items-center gap-1 hover:gap-3 rounded-full bg-gradient-to-r from-pink-500 to-violet-600 px-3 md:px-8 py-3 md:py-4 text-center text-xs md:text-sm font-medium uppercase tracking-wider text-white no-underline transition-all duration-200 ease-out hover:text-white hover:no-underline md:font-semibold" role="button" target="_blank" href="https://drive.google.com/file/d/1FCudnXYTzIyHP-uAt42qCY9ZfbDClGVX/view?usp=sharing"
             >
               <span>Get Resume</span>
               <MdDownload size={16} />
@@ -86,17 +86,15 @@ function HeroSection() {
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-amber-300">JavaScript</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NuxtJS</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NextJS</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Vue.JS</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">React.JS</span>
+                <span className="text-amber-300">Laravel</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">PHP</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">JavaScript</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">NUXT.JS</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Vue.JS</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MySQL</span>
                 <span className="text-gray-400">{"', '"}</span>
@@ -114,9 +112,7 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Rock</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Playing-Piano</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Music</span>
+                <span className="text-amber-300">Cars</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
