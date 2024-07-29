@@ -5,4 +5,5 @@ export const contactsData = {
     github: 'https://github.com/Sajad Aliarab',
     facebook: 'https://www.facebook.com/sajadaliarab/',
     linkedIn: 'https://www.linkedin.com/in/sajad-aliarab-9631607b/',
+    leetcode: "https://leetcode.com/u/sajad68/",
 }

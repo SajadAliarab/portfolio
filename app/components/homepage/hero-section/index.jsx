@@ -43,6 +43,13 @@ function HeroSection() {
             >
               <BsLinkedin size={30} />
             </Link>
+            <Link
+              href='https://leetcode.com/u/sajad68/'
+              target='_blank'
+              className="transition-all text-pink-500 hover:scale-125 duration-300"
+            >
+              <img src="/png/LeetCode.png" alt="LeetCode" className="w-10 h-10" />
+            </Link>
      
 
           </div>
@@ -104,15 +111,15 @@ function HeroSection() {
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">favourites:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-amber-300">My-Wife</span>
+                <span className="text-amber-300">my-wife</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Coding</span>
+                <span className="text-amber-300">coding</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Learn-New-Things</span>
+                <span className="text-amber-300">learn-new-things</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Rock</span>
+                <span className="text-amber-300">rock</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Cars</span>
+                <span className="text-amber-300">cars</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>

@@ -4,7 +4,7 @@ export const projectsData = [
     {
         id: 1,
         name: 'Community Platform (under construction)',
-        description: "I am working on a community platform for my portfolio. I have designed and developed the platform using NuxtJS, TailwindCSS, and MySQL. This Platform communicates with the backend API using RESTFul API with Laravel. I have implemented user authentication, role-based access control, and user profile management. This Project totaly test with PHP Unit and Postman. This project is still under construction.",
+        description: "I am working on a community platform. I have designed and developed the platform using NuxtJS, TailwindCSS, and MySQL. This Platform communicates with the backend API using RESTFul API with Laravel. I have implemented user authentication, role-based access control, and user profile management. This Project totaly test with PHP Unit and Postman.This project dockerized This project is still under construction.",
         tools: ['Nuxt.JS', 'MySQL', 'Laravel','TypeScript', 'TailwindCSS'],
         role: 'Personal Project',
         code: '',
