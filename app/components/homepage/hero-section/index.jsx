@@ -22,7 +22,7 @@ function HeroSection() {
           <h1 className="text-3xl font-bold leading-10 text-white md:font-extrabold lg:text-[2.6rem] lg:leading-[3.5rem]">
             Hello, <br />
             This is {' '}
-            <span className=" text-pink-500">Sajad Aliarab</span>
+            <span className=" text-pink-500">Sajad</span>
             {` , I'm a `}
             <span className=" text-[#16f2b3]">Software Engineer (Web Developer)</span>
             .
@@ -32,14 +32,14 @@ function HeroSection() {
             <Link
               href='https://github.com/SajadAliarab'
               target='_blank'
-              className="transition-all text-pink-500 hover:scale-125 duration-300"
+              className="transition-all text-white hover:scale-125 duration-300"
             >
               <BsGithub size={30} />
             </Link>
             <Link
-              href='https://www.linkedin.com/in/sajad-aliarab-9631607b/'
+              href='https://www.linkedin.com/in/sajad-rab/'
               target='_blank'
-              className="transition-all text-pink-500 hover:scale-125 duration-300"
+              className="transition-all text-blue-600 hover:scale-125 duration-300"
             >
               <BsLinkedin size={30} />
             </Link>
