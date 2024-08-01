@@ -55,7 +55,7 @@ function ContactSection() {
                 size={48}
               />
             </Link>
-            <Link target="_blank" href="https://www.linkedin.com/in/sajad-aliarab-9631607b/">
+            <Link target="_blank" href="https://www.linkedin.com/in/sajad-rab">
               <BiLogoLinkedin
                 className="bg-[#8b98a5] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
                 size={48}
