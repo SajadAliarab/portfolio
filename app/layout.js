@@ -24,7 +24,6 @@ export default function RootLayout({ children }) {
         </main>
         <Footer />
       </body>
-      <GoogleAnalytics gaId='G-252LWJXL1B' />
       <GoogleTagManager gtmId='G-252LWJXL1B' />
     </html>
   )
