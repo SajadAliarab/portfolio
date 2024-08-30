@@ -1,4 +1,4 @@
-import { GoogleAnalytics, GoogleTagManager } from '@next/third-parties/google';
+import { GoogleTagManager } from '@next/third-parties/google';
 import { Inter } from 'next/font/google';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
@@ -25,6 +25,7 @@ export default function RootLayout({ children }) {
         <Footer />
       </body>
       <GoogleAnalytics gaId='G-252LWJXL1B' />
+      <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GTM} />
     </html>
   )
 };
