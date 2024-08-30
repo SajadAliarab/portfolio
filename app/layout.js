@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
         <Footer />
       </body>
       <GoogleAnalytics gaId='G-252LWJXL1B' />
-      <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GTM} />
+      <GoogleTagManager gtmId='G-252LWJXL1B' />
     </html>
   )
 };
