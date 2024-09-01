@@ -3,7 +3,7 @@ export const experiences = [
   {
     id: 1,
     title: "Full Stack Developer On Community Platform",
-    company: "Self Employed, UK",
+    company: "PersonalProject, UK",
     duration: "(July 2024 - Present)",
     image: "/png/freelance-work.png",
   },
