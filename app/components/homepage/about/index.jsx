@@ -17,18 +17,7 @@ function AboutSection() {
             Who I am?
           </p>
           <p className="text-gray-200 text-sm lg:text-lg">
-           As a Software Engineer and Web
-            Developer, I excel in delivering impactful digital solutions that
-            speak volumes through their quality. My proficiency in Vue.js,
-            React.js, Laravel, PHP, and MySQL is evident in the robust and
-            scalable applications I develop. With a keen eye for detail and a
-            commitment to excellence, I specialize in e-commerce design, SEO
-            optimization, and agile methodology. Collaborating seamlessly with
-            cross-functional teams, I identify and address performance
-            bottlenecks to enhance user satisfaction and retention. My passion
-            for continuous learning and innovation drives me to leverage
-            technology effectively, ensuring that every line of code I write
-            contributes to business growth and success.
+          I'm a full-stack web developer with 5+ years of experience building scalable, user-focused websites and web apps. I've worked on enterprise tools used by 2,000+ agents at Butane Group (Iran’s largest gas appliance manufacturer), and helped launch high-traffic platforms for Leicester City Football Club in the UK.I enjoy working with modern tools like React, Next.js, Laravel, and PostgreSQL — with a strong focus on clean code, performance, and SEO
           </p>
         </div>
         <div className="flex justify-center order-1 lg:order-2">

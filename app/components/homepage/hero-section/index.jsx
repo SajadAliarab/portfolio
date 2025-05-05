@@ -24,7 +24,7 @@ function HeroSection() {
             This is {' '}
             <span className=" text-pink-500">Sajad </span>
             {` , I'm a `}
-            <span className=" text-[#16f2b3]">Software Engineer (Web Developer)</span>
+            <span className=" text-[#16f2b3]">Full Stack Developer</span>
             .
           </h1>
 
@@ -37,7 +37,7 @@ function HeroSection() {
               <BsGithub size={30} />
             </Link>
             <Link
-              href='https://www.linkedin.com/in/sajad-rab/'
+              href='https://www.linkedin.com/in/sajad-aliarab/'
               target='_blank'
               className="transition-all text-blue-600 hover:scale-125 duration-300"
             >
@@ -93,17 +93,15 @@ function HeroSection() {
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-amber-300">Laravel</span>
+                <span className="text-amber-300">JavaScript Frameworks</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Typescript</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">PHP</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">JavaScript</span>
+                <span className="text-amber-300">PostgreSQL</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NUXT.JS</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Vue.JS</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MySQL</span>
+                <span className="text-amber-300">Web Applications</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">AWS</span>
                 <span className="text-gray-400">{"'],"}</span>

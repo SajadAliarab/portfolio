@@ -1,8 +1,8 @@
 export const personalData = {
   name: "Sajad",
   profile: '/profile.png',
-  designation: "Software Engineer",
-  description: "As a Software Engineer and Web Developer, I excel in delivering impactful digital solutions that speak volumes through their quality. My proficiency in Laravel, PHP, MySQL, Vue.JS and NUXT.JS is evident in the robust and scalable applications I develop. With a keen eye for detail and a commitment to excellence, I specialize in e-commerce design, SEO optimization, and agile methodology. Collaborating seamlessly with cross-functional teams, I identify and address performance bottlenecks to enhance user satisfaction and retention. My passion for continuous learning and innovation drives me to leverage technology effectively, ensuring that every line of code I write contributes to business growth and success.",
+  designation: "Full Stack Developer",
+  description: " I'm a full-stack web developer with 5+ years of experience building scalable, user-focused websites and web apps. I've worked on enterprise tools used by 2,000+ agents at Butane Group (Iran’s largest gas appliance manufacturer), and helped launch high-traffic platforms for Leicester City Football Club in the UK.I enjoy working with modern tools like React, Next.js, Laravel, and PostgreSQL — with a strong focus on clean code, performance, and SEO.",
   email: 'sajad.aliarab@gmail.com',
   phone: '+447936766999',
   address: 'leicester, United Kingdom, LE1 1TH',

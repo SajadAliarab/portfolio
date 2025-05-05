@@ -2,30 +2,30 @@ export const experiences = [
  
   {
     id: 1,
-    title: "Digital Platforms Specialist",
+    title: "Digital Platforms Specialist(Technical Web Developer)",
     company: "Leicester City Football Club, UK",
     duration: "(November 2024 - Present)",
     image: "/png/LCFC(Logo).png",
   },
  {
     id: 2,
-    title: "Full Stack Developer On Community Platform",
-    company: "PersonalProject, UK",
-    duration: "(July 2024 - Present)",
-    image: "/png/freelance-work.png",
+    title: "Full Stack Developer",
+    company: "HM Solutions, Netherlands",
+    duration: "(March 2023 - November 2024)",
+    image: "/png/HM.png",
   },
   {
     id: 3,
-    title: "Web Developer",
+    title: "Frontend Developer -> Full Stack Developer",
     company: "Butane Industrial Group, Iran",
-    duration: "(Apr 2020 - Dec 2022)",
+    duration: "(Apr 2018 - Jan 2023)",
     image: "/png/butane.png",
   },
   {
     id: 4,
     title: "Founder of E-Commerce ",
     company: "DamaNama, Iran",
-    duration: "(Apr 2014 - Apr 2020)",
+    duration: "(Apr 2014 - Apr 2018)",
     image: "/png/damanama.png",
   }
 ]

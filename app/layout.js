@@ -9,8 +9,8 @@ import './css/globals.scss';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Portfolio of Sajad - Software Engineer',
-  description: 'This is sajad portfolio website. I am a software engineer and web developer.',
+  title: 'Portfolio of Sajad - Full Stack Developer',
+  description: 'This is sajad portfolio website. I am a Full Stack Developer.',
 };
 
 export default function RootLayout({ children }) {
