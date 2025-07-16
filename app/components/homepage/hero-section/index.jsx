@@ -93,15 +93,15 @@ function HeroSection() {
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-amber-300">JavaScript-Frameworks</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Typescript</span>
-                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">PHP</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">PostgreSQL</span>
+                <span className="text-amber-300">Laravel</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Web-Applications</span>
+                <span className="text-amber-300">Javascript Frameworks</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">MySQL</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">REST APIs</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">AWS</span>
                 <span className="text-gray-400">{"'],"}</span>
@@ -109,11 +109,11 @@ function HeroSection() {
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">favourites:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-amber-300">my-wife</span>
+                <span className="text-amber-300">my wife</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">coding</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">learn-new-things</span>
+                <span className="text-amber-300">learn new things</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">rock</span>
                 <span className="text-gray-400">{"', '"}</span>
@@ -131,7 +131,7 @@ function HeroSection() {
                 <span className="text-gray-400">,</span>
               </div>
               <div>
-                <span className="ml-4 lg:ml-8 mr-2 text-white">problemSolver:</span>
+                <span className="ml-4 lg:ml-8 mr-2 text-white">thinkingOutsideTheBox:</span>
                 <span className="text-orange-400">true</span>
                 <span className="text-gray-400">,</span>
               </div>

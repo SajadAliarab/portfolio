@@ -17,7 +17,8 @@ function AboutSection() {
             Who I am?
           </p>
           <p className="text-gray-200 text-sm lg:text-lg">
-          I am a full-stack web developer with 5+ years of experience building scalable, user-focused websites and web apps. I have ve worked on enterprise tools used by 2,000+ agents at Butane Group -- Iran largest gas appliance manufacturer--, and helped launch high-traffic platforms for Leicester City Football Club in the UK.I enjoy working with modern tools like React, Next.js, Laravel, and PostgreSQL — with a strong focus on clean code, performance, and SEO
+         I'm a PHP/Laravel developer who loves writing clean, efficient, and testable code. I mostly live on the backend—building APIs, working with databases, and keeping things fast and secure.<br></br>
+         I’ve also played with Vue 3 and Nuxt.js enough to collaborate smoothly with frontend teams (and jump in when needed). I’m into writing code that makes sense, scales well, and doesn’t fall apart under pressure.<br></br><b>Always learning, always building.</b>
           </p>
         </div>
         <div className="flex justify-center order-1 lg:order-2">

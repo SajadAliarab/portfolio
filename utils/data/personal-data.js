@@ -2,7 +2,7 @@ export const personalData = {
   name: "Sajad",
   profile: '/profile.png',
   designation: "Full Stack Developer",
-  description: " I'm a full-stack web developer with 5+ years of experience building scalable, user-focused websites and web apps. I've worked on enterprise tools used by 2,000+ agents at Butane Group (Iran’s largest gas appliance manufacturer), and helped launch high-traffic platforms for Leicester City Football Club in the UK.I enjoy working with modern tools like React, Next.js, Laravel, and PostgreSQL — with a strong focus on clean code, performance, and SEO.",
+  description: " I'm a PHP/Laravel developer who loves writing clean, efficient, and testable code. I mostly live on the backend—building APIs, working with databases, and keeping things fast and secure.I’ve also played with Vue 3 and Nuxt.js enough to collaborate smoothly with frontend teams (and jump in when needed). I’m into writing code that makes sense, scales well, and doesn’t fall apart under pressure.Always learning, always building.",
   email: 'sajad.aliarab@gmail.com',
   phone: '+447936766999',
   address: 'leicester, United Kingdom, LE1 1TH',

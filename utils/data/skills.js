@@ -6,8 +6,6 @@ export const skillsData = [
   'PHP',
   'Laravel',
   'Docker',
-  'React',
-  'Next JS',
   'Vue',
   'Nuxt JS',
   'Wordpress',
