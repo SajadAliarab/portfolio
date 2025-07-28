@@ -17,8 +17,8 @@ function AboutSection() {
             Who I am?
           </p>
           <p className="text-gray-200 text-sm lg:text-lg">
-         I'm a PHP/Laravel developer who loves writing clean, efficient, and testable code. I mostly live on the backend—building APIs, working with databases, and keeping things fast and secure.<br></br>
-         I’ve also played with Vue 3 and Nuxt.js enough to collaborate smoothly with frontend teams (and jump in when needed). I’m into writing code that makes sense, scales well, and doesn’t fall apart under pressure.<br></br><b>Always learning, always building.</b>
+         I&apos;m a PHP/Laravel developer who loves writing clean, efficient, and testable code. I mostly live on the backend—building APIs, working with databases, and keeping things fast and secure.<br></br>
+         I&apos;ve also played with Vue 3 and Nuxt.js enough to collaborate smoothly with frontend teams (and jump in when needed). I&apos;m into writing code that makes sense, scales well, and doesn&apos;t fall apart under pressure.<br></br><b>Always learning, always building.</b>
           </p>
         </div>
         <div className="flex justify-center order-1 lg:order-2">
